@@ -1,0 +1,14 @@
+<Portrait>
+  <backgroundScaleRatio bgSRx="2.506068" bgSRy="2.506068" />
+  <cardSlotScaleRatio csSRx="0.4357905" csSRy="0.4675744" />
+  <cardScaleRatio cSRx="0.4646403" cSRy="0.4696769" />
+  <drawDeckCardsStartPosRatio ddcSPRx="1.714275" ddcSPRy="4.041743" />
+  <drawDeckStartPosRatio ddSPRx="2.775495" ddSPRy="4.047879" />
+  <drawDeckHiddenStartPosRatio ddhSPRx="0" ddhSPRy="0" />
+  <discardDeckStartPosRatio ddiscardSPRx="0.006995133" ddiscardSPRy="4.05232" />
+  <playDeckStartPos pdSPx="2.876905" pdSPy="2.00016" />
+  <spacerDrawDeckCards sdDCx="0.2562095" sdDCy="0" />
+  <spacerInDiscardDeck siDDx="0.9608878" siDDy="0" />
+  <spacerPlayDeck sPDx="0.9518236" sPDy="0" />
+  <spacerInPlayDeck siPD="0.3044888" />
+</Portrait>

@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: e7f0b001c70a47a4cab433f72bbe7f2c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Glow
+    21300002: CardBackBrown
+    21300004: SlotGlow
+    21300006: Club
+    21300008: 5
+    21300010: 3
+    21300012: 2
+    21300014: 11
+    21300016: Spade
+    21300018: Heart
+    21300020: Diamond
+    21300022: 7
+    21300024: 8
+    21300026: 6
+    21300028: TurnNextCard
+    21300030: Warning
+    21300032: 9
+    21300034: 1
+    21300036: 12
+    21300038: 13
+    21300040: SpadeSmall
+    21300042: HeartSmall
+    21300044: DiamondSmall
+    21300046: ClubSmall
+    21300048: Slot
+    21300050: CardFront
+    21300052: CardBackGreen
+    21300054: CardBackRed
+    21300056: 4
+    21300058: 10
+    21300060: Queen
+    21300062: King
+    21300064: Jack
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: Glow
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 627
+        width: 277
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CardBackBrown
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 722
+        width: 192
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlotGlow
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 728
+        width: 188
+        height: 289
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Club
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 750
+        width: 145
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 968
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 903
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 838
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 11
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 774
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spade
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 464
+        width: 145
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heart
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 445
+        width: 145
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Diamond
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 180
+        width: 145
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 7
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 116
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 114
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 48
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurnNextCard
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 55
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Warning
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 64
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 35
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 37
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 12
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 27
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 13
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 32
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpadeSmall
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 32
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartSmall
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 37
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DiamondSmall
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 28
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ClubSmall
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slot
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 101
+        width: 188
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CardFront
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 409
+        width: 192
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CardBackGreen
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 305
+        width: 192
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CardBackRed
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 305
+        width: 192
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 656
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 33
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Queen
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 99
+        width: 188
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: King
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 188
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jack
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 185
+        width: 188
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Cards
+  userData: 

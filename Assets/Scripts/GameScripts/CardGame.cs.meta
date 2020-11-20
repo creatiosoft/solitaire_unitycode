@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3441bdcf31b366f47aa756214b31e092
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Ding: {fileID: 8300000, guid: 6cf274ae95e87134bb0d9f87fac7a87d, type: 3}
+  - NoMove: {fileID: 8300000, guid: 9805cb0d624ed97479128a5d98dc1926, type: 3}
+  - Correct: {fileID: 8300000, guid: c7df39de0622c364bae907d8e24cb1f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
